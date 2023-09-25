@@ -7,3 +7,5 @@ const Factorial = (num) => {
 
   return result;
 };
+
+console.log(Factorial(5));
