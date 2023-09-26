@@ -9,3 +9,8 @@ function isPrime(n) {
     }
   }
 }
+
+isPrime(13);
+isPrime(12);
+isPrime(1);
+isPrime(2);
